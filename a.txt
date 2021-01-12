@@ -4,4 +4,4 @@ third line
 4444444444444444444444444
 add color
 master color2
-add color ---version2
+master add color ---version2
