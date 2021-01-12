@@ -5,3 +5,5 @@ third line
 add color
 master color2
 master add color ---version2
+add color ---version2
+add color ==version3
